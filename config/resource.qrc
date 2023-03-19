@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="opendir">icons/opendir_32.svg</file>
+    <file alias="yes">icons/yes.svg</file>
+    <file alias="no">icons/no.svg</file>
+    <file alias="finish">icons/finish_32.svg</file>
+    <file alias="unfinish">icons/unfinish_32.svg</file>
+    <file alias="export">icons/export_32.svg</file>
+    <file alias="save_all">icons/saveall.svg</file>
+    <file alias="left">icons/to_left.svg</file>
+    <file alias="right">icons/to_right.svg</file>
+    <file alias="last">icons/last_32.svg</file>
+    <file alias="next">icons/next_32.svg</file>
+    <file alias="quit">icons/quit_32.svg</file>
+    <file alias="del_box">icons/delBox32.svg</file>
+    <file alias="default">icons/default.svg</file>
+    <file alias="findBox">icons/定位_32.svg</file>
+    <file alias="recover">icons/recover_32.svg</file>
+    <file alias="remove">icons/remove_32.svg</file>
+    <file alias="revoke">icons/revoke_32.svg</file>
+    <file alias="copy">icons/copy_32.svg</file>
+    <file alias="recognise">icons/recog_32.svg</file>
+    <file alias="discard">icons/wait_del_32.svg</file>
+    <file alias="wanji32">icons/wanji_logo32.ico</file>
+    <file alias="wanji64">icons/wanji_logo64.ico</file>
+</qresource>
+</RCC>
+
